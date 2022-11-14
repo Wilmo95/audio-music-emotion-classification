@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 *.zip
 I Doubted.mp3
+MER_audio_taffc_dataset/panda_dataset_taffc_annotations.csv
